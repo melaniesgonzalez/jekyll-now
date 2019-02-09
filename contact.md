@@ -1,16 +1,10 @@
 ---
 layout: page
-title: About
+title: Contact Me
 permalink: /contact/
 ---
 <img src="/images/favicon_logo.png" alt="drawing" width="200"/>
 
-Some information about you!
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
 
 [email@domain.com](mailto:email@domain.com)
