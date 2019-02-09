@@ -7,6 +7,6 @@ layout: default
       <a href="{{ portfolio.url | prepend: site.baseurl }}">
          <p>{{ portfolio.title }}</p>
       </a>
-      <p class="post-excerpt">{{ portfolio.description | truncate: 160 }}</p>
+      <p class="portfolio-excerpt">{{ portfolio.description | truncate: 160 }}</p>
    </article>
 {% endfor %}     
