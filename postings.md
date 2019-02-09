@@ -4,10 +4,11 @@ title: Jekyll Postings
 ---
 
 
-<link rel="stylesheet" href="index.css" />
+
 
 {% for album in site.postings reversed %}
-  <article>
+ <link rel="stylesheet" href="index.css" />
+ <article>
     <a href="{{ postings.url }}">
       <img alt="{{ postings.title }} {{ postings.artist }}"/>
       <p>{{ postings.title }}</p>
