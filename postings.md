@@ -1,15 +1,17 @@
 ---
 layout: default
-title: Jekyll Postings
 ---
 
 <link rel="stylesheet" href="index.css" />
 
-{% for postings in site.postings %}
-   <article>
-      <a href="{{ postings.url | prepend: site.baseurl }}">
-         <p>{{ postings.title }}</p>
-      </a>
-      <p class="post-excerpt">{{ postings.description | truncate: 160 }}</p>
-   </article>
-{% endfor %}      
+<div class="posts">
+  {% for posting in site.postingss %}
+    <article class="post">
+      <h1><a href="{{ site.baseurl }}{{ posting.url }}">{{ posting.title }}</a></h1>
+      <div class="entry">
+        {{ posting.excerpt }}
+      </div>
+      <a href="{{ site.baseurl }}{{ posting.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
