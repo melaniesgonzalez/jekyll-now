@@ -3,6 +3,14 @@ layout: post
 title: You're up and running!
 ---
 
+# Features
+
+## Customizable theme
+The theme can be customized just by changing few variables in **_config.yml** file.
+
+## Lightweight
+Since the theme is based on default Jekyll theme, it is very lightweight. No JavaScript except analytics is used!
+
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
