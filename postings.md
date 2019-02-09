@@ -5,12 +5,11 @@ title: Jekyll Postings
 
 <link rel="stylesheet" href="index.css" />
 
-{% for album in site.postings reversed %}
-  <article>
-    <a href="{{ postings.url }}"
-      <p>{{ postings.title }}</p>
-    </a>
-    <p>by {{ postings.artist }}</p>
-  </article>
-{% endfor %}
-
+<ul>
+  {% for posting in site.postings reversed %}
+    <article>
+      <a href="{{ postings.url }}">{{ postings.title }}</a>
+      - {{ postings.description }}
+    </article>
+  {% endfor %}
+</ul>
