@@ -7,8 +7,7 @@ title: Jekyll Postings
 
 {% for album in site.postings reversed %}
   <article>
-    <a href="{{ postings.url }}">
-      <img src="{{ postings.img }}" alt="{{ postings.title }} {{ postings.artist }}"/>
+    <a href="{{ postings.url }}"
       <p>{{ postings.title }}</p>
     </a>
     <p>by {{ postings.artist }}</p>
