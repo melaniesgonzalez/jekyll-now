@@ -15,7 +15,7 @@ avatar: https://raw.githubusercontent.com/melaniesgonzalez/melaniesgonzalez.gith
 # Flags below are optional
 #
 collections:
-    postings:
+    portfolio:
         output: true
         permalink: /portfolio/:name/
 defaults:
