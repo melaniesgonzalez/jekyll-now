@@ -17,11 +17,11 @@ avatar: https://raw.githubusercontent.com/melaniesgonzalez/melaniesgonzalez.gith
 collections:
     postings:
         output: true
-        permalink: /postings/:name/
+        permalink: /portfolio/:name/
 defaults:
   - scope:
       path: ""
-      type: "postings"
+      type: "portfolio"
     values:
       layout: page
 
