@@ -8,7 +8,8 @@ title: Jekyll Postings
 {% for postings in site.postings %}
 
 
-<a href="{{ postings.url | prepend: site.baseurl }}">{{ postings.title }}
+<a href="{{ postings.url | prepend: site.baseurl }}">
+  <p>{{ postings.title }}</p>
 
 </a>
 
