@@ -4,4 +4,6 @@ title: Contact Me
 permalink: /contact/
 ---
 
-[mnetter@utexas.edu](mailto:mnetter@utexas.edu)
+[Email](mailto:mnetter@utexas.edu)
+[LinkedIn](https://www.linkedin.com/in/melanie-s-gonzalez/)
+[GitHub](https://github.com/melaniesgonzalez/)
