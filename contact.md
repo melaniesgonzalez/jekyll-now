@@ -4,4 +4,4 @@ title: Contact Me
 permalink: /contact/
 ---
 
-[mnetter@utexas.edu](mailto:email@domain.com)
+[mnetter@utexas.edu](mailto:mnetter@utexas.edu)
