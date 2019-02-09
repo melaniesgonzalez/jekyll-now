@@ -6,7 +6,6 @@ title: Jekyll Postings
 <link rel="stylesheet" href="index.css" />
 
 {% for postings in site.postings %}
-   <link rel="stylesheet" href="index.css" />
    <article>
       <a href="{{ postings.url | prepend: site.baseurl }}">
          <p>{{ postings.title }}</p>
