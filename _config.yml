@@ -17,7 +17,13 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 collections:
     postings:
         output: true
-        permalink: /postings/:path/
+        permalink: /postings/:name/
+defaults:
+  - scope:
+      path: ""
+      type: "postings"
+    values:
+      layout: posting
 
 # Includes an icon in the footer for each username you enter
 footer-links:
