@@ -3,16 +3,16 @@ layout: default
 ---
 
 <div class="pages">
-  {% for page in site.pages %}
-    <article class="page">
+  {% for pages in site.pages %}
+    <article class="pages">
 
-      <h1><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h1>
+      <h1><a href="{{ site.baseurl }}{{ pages.url }}">{{ pages.title }}</a></h1>
 
       <div class="entry">
-        {{ page.excerpt }}
+        {{ pages.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ page.url }}" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}{{ pages.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
 </div>
