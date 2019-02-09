@@ -2,7 +2,7 @@
 title: greet
 layout: page
 description: Webjeda Purple is a minimal theme built on default jekyll theme. It is very light highly customizable. Suitable for minimal blogs.
-link: https://melaniesgonzalez.github.io/greet2/
+link: https://melaniesgonzalez.github.io/greet/
 ---
 
 # Features
