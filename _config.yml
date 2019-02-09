@@ -6,7 +6,8 @@
 name: Melanie S. Gonzalez
 
 # Short bio or description (displayed in the header)
-description: PhD. Student at University of Texas at Austin
+description: PhD. Student at University of Texas at Austin  
+Asipiring Data Analyst
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -21,9 +22,9 @@ footer-links:
   email: mnetter@utexas.edu
   facebook:
   flickr:
-  github:
+  github: melaniesgonzalez
   instagram:
-  linkedin: https://www.linkedin.com/in/melanie-s-gonzalez/
+  linkedin: melanie-s-gonzalez/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
