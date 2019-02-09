@@ -5,6 +5,8 @@ title: Jekyll Postings
 
 <br />
 
+<link rel="stylesheet" href="index.css" />
+
 <h1 style="text-align:center">Postings</h1>
 <div id="mainbox">
    
