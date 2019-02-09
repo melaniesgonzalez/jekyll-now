@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<link rel="stylesheet" href="index.css" />
-
 {% for postings in site.postings %}
    <article>
       <a href="{{ postings.url | prepend: site.baseurl }}">
