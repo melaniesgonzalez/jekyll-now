@@ -23,7 +23,7 @@ defaults:
       path: ""
       type: "postings"
     values:
-      layout: posting
+      layout: page
 
 # Includes an icon in the footer for each username you enter
 footer-links:
