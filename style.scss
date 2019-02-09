@@ -152,6 +152,7 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
+  position: relative;
 }
 
 .masthead {
@@ -215,7 +216,7 @@ img {
 }
 
 nav {
-  position: relative
+  position: relative;
     bottom: 0;
     right: 0;
   font-family: $helveticaNeue;
