@@ -5,9 +5,6 @@ permalink: /contact/
 ---
 <img src="/images/favicon_logo.png" alt="drawing" width="200"/>
 
-![an image alt text]({{ site.baseurl }}/images/favicon_logo.png "an image title")
-
-
 Some information about you!
 
 ### More Information
