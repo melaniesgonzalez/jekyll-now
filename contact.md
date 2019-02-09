@@ -4,6 +4,9 @@ title: About
 permalink: /contact/
 ---
 
+![an image alt text]({{ site.baseurl }}/images/favicon_logo.png "an image title")
+
+
 Some information about you!
 
 ### More Information
