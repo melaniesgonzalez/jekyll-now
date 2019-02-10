@@ -23,3 +23,19 @@ link: https://melaniesgonzalez.github.io/resume/
 * Some expertise in using Python for machine learning
 * Some expertise in questionnaire design
 * Some expertise in qualitative content analysis and natural language processing
+
+### Relevant Coursework
+* Regression Analysis in R 
+  * **Simple linear regression, polynomial regression, multiple regressions**
+* ANOVA in R 
+  * **One-way ANOVA, factorial ANOVA, multivariate ANOVA, ANCOVA**
+* Advanced Statistics in R I 
+  * **Principal components analysis, factor analysis, HLM/mixed effects modeling**
+* Advanced Statistics in R II 
+  * **Categorical data analysis, non-parametric regression, structural equation modeling**
+* R for Behavioral Scientists 
+  * **Data cleaning, data visualization, GitHub version control, R package development**
+* Data Analytics with Python 
+  * **Principal components analysis, factor analysis, K-means clustering**
+* Motivation and Emotion in Education
+* Developmental Science of Adolescence
