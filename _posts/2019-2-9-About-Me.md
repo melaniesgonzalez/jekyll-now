@@ -1,23 +1,18 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome! About Me
 ---
 
-Some information about you!
 
-A place to include any other types of information that you'd like to include about yourself.
+# Education
 
-EDUCATION
-
-University of Texas at Austin
-Ph.D. in Developmental Psychology, (expected) 2020
-Portfolio in Advanced Statistical Modeling, (expected) 2020
-M.A. in Developmental Psychology, (expected) 2019
-Cornell University
-M.A. in Human Development, 2015
-B.S. in Human Development, 2014
-
-# Features
+* University of Texas at Austin
+  * Ph.D. in Developmental Psychology, (expected) 2020
+    * Portfolio in Advanced Statistical Modeling, (expected) 2020
+  * M.A. in Developmental Psychology, (expected) 2019
+* Cornell University
+  * M.A. in Human Development, 2015
+  * B.S. in Human Development, 2014
 
 ## Customizable theme
 The theme can be customized just by changing few variables in **_config.yml** file.
