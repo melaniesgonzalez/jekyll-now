@@ -39,3 +39,7 @@ link: https://melaniesgonzalez.github.io/resume/
   * *Principal components analysis, factor analysis, K-means clustering*
 * Motivation and Emotion in Education
 * Developmental Science of Adolescence
+
+
+<embed src="https://my.github.io/my.pdf" type="application/pdf" />
+<object data="the.pdf" width="1000" height="1000" type='application/pdf'/>
