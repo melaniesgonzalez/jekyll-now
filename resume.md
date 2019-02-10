@@ -40,6 +40,5 @@ link: https://melaniesgonzalez.github.io/resume/
 * Motivation and Emotion in Education
 * Developmental Science of Adolescence
 
-
-<embed src="https://my.github.io/my.pdf" type="application/pdf" />
+<embed src="/pdfs/Gonzalez_M_CV_11_20.pdf" type="application/pdf"/>
 <object data="the.pdf" width="1000" height="1000" type='application/pdf'/>
