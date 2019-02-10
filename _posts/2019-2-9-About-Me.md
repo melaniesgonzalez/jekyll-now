@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Welcome! About Me
+title: Welcome!
 ---
 
 
-# Education
+# About Me
+
+## Education
 
 * University of Texas at Austin
   * Ph.D. in Developmental Psychology, (expected) 2020
