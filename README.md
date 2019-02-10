@@ -1,2 +1,1 @@
-- [Jekyll](https://github.com/jekyll/jekyll) - Thanks to its creators, contributors and maintainers.
-- [Hyde](https://github.com/poole/hyde) by MDO
+Thanks to Barry Clark for creating the [Jekyll-Now](https://github.com/barryclark/jekyll-now) theme that served as the basis for my website!
