@@ -5,25 +5,41 @@
 # Name of your site (displayed in the header)
 name: Melanie S. Gonzalez
 
+# Education
+educ: Ph.D. Student at The University of Texas at Austin
+
 # Short bio or description (displayed in the header)
-description: PhD. Student at University of Texas at Austin
+description: Aspiring Education Research Data Analyst
+
+# Email
+email: msgonzalez@utexas.edu
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://raw.githubusercontent.com/melaniesgonzalez/melaniesgonzalez.github.io/master/images/favicon_logo.png
 
 #
 # Flags below are optional
 #
+collections:
+    portfolio:
+        output: true
+        permalink: /portfolio/:name/
+defaults:
+  - scope:
+      path: ""
+      type: "portfolio"
+    values:
+      layout: page
 
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: mnetter@utexas.edu
+  email: msgonzalez@utexas.edu
   facebook:
   flickr:
+  linkedin: melanie-s-gonzalez/
   github: melaniesgonzalez
   instagram:
-  linkedin: melanie-s-gonzalez/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
@@ -41,7 +57,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://melaniesgonzalez.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
